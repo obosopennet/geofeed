@@ -1,3 +1,10 @@
+# OBOS OpenNet's GeoFeed
+# This feed is encoded in RFC 8805 format.
+# Publication date: 2023-11-08
+#
+# This data feed provides approximate geo locations for a subset of
+# OBOS OpenNet's IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups 
 # prefix,country_code,region_code,city,postal
  46.227.152.0/21,NO,NO-03,Oslo,0195
  185.190.36.0/24,NO,NO-03,Oslo,0195
